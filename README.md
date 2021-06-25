@@ -1,4 +1,4 @@
-# bikesharing
+# Bike Sharing Analysis
 
 ## Overview
 
@@ -45,6 +45,6 @@ In summary, Citibike NY caters most of their business towards daily commuters. T
 * Trips per user per Month
   *  This would show how often the repeat customers use their subscriptions
 *  Bike maintenance activity per mile of use
-  *   how many miles does the average bike go before needing maintenance? 
+  * how many miles does the average bike go before needing maintenance? 
 
 Assuming there are bike trails, paths, and lanes, I am confident that Citibike would do well in Des Moines, IA. 
